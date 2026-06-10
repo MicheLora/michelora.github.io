@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-10'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: Transaction-level functional mockup units for cyber-physical virtual platforms
     year: '2018'
   DNoGdSIAAAAJ:7T2F9Uy0os0C:
-    citations: 5
+    citations: 6
     title: Efficient exploration of cyber-physical system architectures using contracts and subgraph isomorphism
     year: '2024'
   DNoGdSIAAAAJ:9vf0nzSNQJEC:
@@ -66,7 +66,7 @@ papers:
     title: An AI-enabled framework for smart semiconductor manufacturing
     year: '2024'
   DNoGdSIAAAAJ:J-pR_7NvFogC:
-    citations: 51
+    citations: 52
     title: 'CHASE: Contract-based requirement engineering for cyber-physical system design'
     year: '2018'
   DNoGdSIAAAAJ:JQOojiI6XY0C:
@@ -94,11 +94,11 @@ papers:
     title: Compositional design of multi-robot systems control software on ROS
     year: '2019'
   DNoGdSIAAAAJ:N5tVd3kTz84C:
-    citations: 13
+    citations: 14
     title: Enabling component reuse in model-based system engineering of cyber-physical production systems
     year: '2021'
   DNoGdSIAAAAJ:NJ774b8OgUMC:
-    citations: 2
+    citations: 3
     title: Integrating Modeling Languages with Ontologies in the Context of Industry 4.0
     year: '2024'
   DNoGdSIAAAAJ:P5F9QuxV20EC:
@@ -122,7 +122,7 @@ papers:
     title: Simulation alternatives for the verification of networked cyber-physical systems
     year: '2015'
   DNoGdSIAAAAJ:UHK10RUVsp4C:
-    citations: 7
+    citations: 8
     title: Co-design of topology, scheduling, and path planning in automated warehouses
     year: '2023'
   DNoGdSIAAAAJ:V3AGJWp-ZtQC:
@@ -174,7 +174,7 @@ papers:
     title: Yu Bai Hebei University of Science and Technology Jani Boutellier University of Vaasa Jens Brandt Hochschule Niederrhein David Broman KTH Royal Institute of Technology
     year: Unknown Year
   DNoGdSIAAAAJ:_Ybze24A_UAC:
-    citations: 9
+    citations: 10
     title: Task assignment, scheduling, and motion planning for automated warehouses for million product workloads
     year: '2023'
   DNoGdSIAAAAJ:bnK-pcrLprsC:
