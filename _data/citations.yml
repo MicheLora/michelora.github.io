@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -78,7 +78,7 @@ papers:
     title: An experimental analysis of security vulnerabilities in industrial IoT devices
     year: '2020'
   DNoGdSIAAAAJ:K3LRdlH-MEoC:
-    citations: 13
+    citations: 14
     title: Conservative behavioural modelling in SystemC-AMS
     year: '2015'
   DNoGdSIAAAAJ:LPZeul_q3PIC:
@@ -174,7 +174,7 @@ papers:
     title: Yu Bai Hebei University of Science and Technology Jani Boutellier University of Vaasa Jens Brandt Hochschule Niederrhein David Broman KTH Royal Institute of Technology
     year: Unknown Year
   DNoGdSIAAAAJ:_Ybze24A_UAC:
-    citations: 10
+    citations: 11
     title: Task assignment, scheduling, and motion planning for automated warehouses for million product workloads
     year: '2023'
   DNoGdSIAAAAJ:bnK-pcrLprsC:
