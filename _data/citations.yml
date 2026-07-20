@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-20'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Automatic generation of cycle-accurate simulink blocks from hdl ips
     year: '2017'
   DNoGdSIAAAAJ:1yQoGdGgb4wC:
-    citations: 3
+    citations: 2
     title: A Contract-Based Requirement Engineering Framework for the Design of Industrial Cyber-Physical Systems
     year: '2022'
   DNoGdSIAAAAJ:2osOgNQ5qMEC:
@@ -66,7 +66,7 @@ papers:
     title: An AI-enabled framework for smart semiconductor manufacturing
     year: '2024'
   DNoGdSIAAAAJ:J-pR_7NvFogC:
-    citations: 53
+    citations: 52
     title: 'CHASE: Contract-based requirement engineering for cyber-physical system design'
     year: '2018'
   DNoGdSIAAAAJ:JQOojiI6XY0C:
@@ -74,7 +74,7 @@ papers:
     title: 'Split-et-impera: a framework for the design of distributed deep learning applications'
     year: '2023'
   DNoGdSIAAAAJ:JoZmwDi-zQgC:
-    citations: 150
+    citations: 151
     title: An experimental analysis of security vulnerabilities in industrial IoT devices
     year: '2020'
   DNoGdSIAAAAJ:K3LRdlH-MEoC:
@@ -90,7 +90,7 @@ papers:
     title: "VLSID & ES 2018\u2013List of Reviewers"
     year: Unknown Year
   DNoGdSIAAAAJ:Mojj43d5GZwC:
-    citations: 10
+    citations: 11
     title: Compositional design of multi-robot systems control software on ROS
     year: '2019'
   DNoGdSIAAAAJ:N5tVd3kTz84C:
@@ -102,7 +102,7 @@ papers:
     title: Integrating Modeling Languages with Ontologies in the Context of Industry 4.0
     year: '2024'
   DNoGdSIAAAAJ:P5F9QuxV20EC:
-    citations: 11
+    citations: 12
     title: On the reuse of RTL assertions in SystemC TLM verification
     year: '2014'
   DNoGdSIAAAAJ:PR6Y55bgFSsC:
@@ -138,7 +138,7 @@ papers:
     title: A fast simulation environment for smart systems validation in presence of electromagnetic interferences
     year: '2016'
   DNoGdSIAAAAJ:W5xh706n7nkC:
-    citations: 5
+    citations: 6
     title: 'RRPDG: A graph model to enable AI-based production reconfiguration and optimization'
     year: '2024'
   DNoGdSIAAAAJ:WA5NYHcadZ8C:
@@ -222,7 +222,7 @@ papers:
     title: A Data-Driven Digital Twin for Predicting Manufacturing Process Efficiency
     year: '2026'
   DNoGdSIAAAAJ:kzcrU_BdoSEC:
-    citations: 14
+    citations: 15
     title: Enabling Service-Oriented Manufacturing Through Architectures, Models, and Protocols
     year: '2024'
   DNoGdSIAAAAJ:olpn-zPbct0C:
@@ -230,7 +230,7 @@ papers:
     title: Automatic integration of HDL IPs in simulink using FMI and s-function interfaces
     year: '2018'
   DNoGdSIAAAAJ:p2g8aNsByqUC:
-    citations: 15
+    citations: 16
     title: Reusing RTL assertion checkers for verification of SystemC TLM models
     year: '2015'
   DNoGdSIAAAAJ:qjMakFHDy7sC:
