@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-07'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -14,8 +14,8 @@ papers:
     title: Automatic generation of cycle-accurate simulink blocks from hdl ips
     year: '2017'
   DNoGdSIAAAAJ:1yQoGdGgb4wC:
-    citations: 2
-    title: A Contract-Based Requirement Engineering Framework for the Design of Industrial Cyber-Physical Systems
+    citations: 3
+    title: A contract-based requirement engineering framework for the design of industrial cyber-physical systems
     year: '2022'
   DNoGdSIAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -58,11 +58,11 @@ papers:
     title: Analog models manipulation for effective integration in smart system virtual platforms
     year: '2017'
   DNoGdSIAAAAJ:D_sINldO8mEC:
-    citations: 10
+    citations: 9
     title: Virtual prototyping of smart systems through automatic abstraction and mixed-signal scheduling
     year: '2017'
   DNoGdSIAAAAJ:Fu2w8maKXqMC:
-    citations: 8
+    citations: 7
     title: An AI-enabled framework for smart semiconductor manufacturing
     year: '2024'
   DNoGdSIAAAAJ:J-pR_7NvFogC:
@@ -70,11 +70,11 @@ papers:
     title: 'CHASE: Contract-based requirement engineering for cyber-physical system design'
     year: '2018'
   DNoGdSIAAAAJ:JQOojiI6XY0C:
-    citations: 14
-    title: 'Split-et-impera: a framework for the design of distributed deep learning applications'
+    citations: 15
+    title: 'Split-et-impera: A framework for the design of distributed deep learning applications'
     year: '2023'
   DNoGdSIAAAAJ:JoZmwDi-zQgC:
-    citations: 151
+    citations: 145
     title: An experimental analysis of security vulnerabilities in industrial IoT devices
     year: '2020'
   DNoGdSIAAAAJ:K3LRdlH-MEoC:
@@ -90,7 +90,7 @@ papers:
     title: "VLSID & ES 2018\u2013List of Reviewers"
     year: Unknown Year
   DNoGdSIAAAAJ:Mojj43d5GZwC:
-    citations: 11
+    citations: 12
     title: Compositional design of multi-robot systems control software on ROS
     year: '2019'
   DNoGdSIAAAAJ:N5tVd3kTz84C:
@@ -99,7 +99,7 @@ papers:
     year: '2021'
   DNoGdSIAAAAJ:NJ774b8OgUMC:
     citations: 4
-    title: Integrating Modeling Languages with Ontologies in the Context of Industry 4.0
+    title: Integrating modeling languages with ontologies in the context of Industry 4.0
     year: '2024'
   DNoGdSIAAAAJ:P5F9QuxV20EC:
     citations: 12
@@ -130,7 +130,7 @@ papers:
     title: Validation of HMI applications for industrial smart display
     year: '2017'
   DNoGdSIAAAAJ:VL0QpB8kHFEC:
-    citations: 33
+    citations: 31
     title: 'Modeling in industry 5.0: What is there and what is missing: Special session 1: Languages for industry 5.0'
     year: '2021'
   DNoGdSIAAAAJ:VOx2b1Wkg3QC:
@@ -150,7 +150,7 @@ papers:
     title: "Virtual prototyping a production line using assume\u2013guarantee contracts"
     year: '2020'
   DNoGdSIAAAAJ:XiSMed-E-HIC:
-    citations: 8
+    citations: 7
     title: Multi-level modeling of wireless embedded systems
     year: '2014'
   DNoGdSIAAAAJ:Y5dfb0dijaUC:
@@ -222,8 +222,8 @@ papers:
     title: A Data-Driven Digital Twin for Predicting Manufacturing Process Efficiency
     year: '2026'
   DNoGdSIAAAAJ:kzcrU_BdoSEC:
-    citations: 15
-    title: Enabling Service-Oriented Manufacturing Through Architectures, Models, and Protocols
+    citations: 16
+    title: Enabling service-oriented manufacturing through architectures, models, and protocols
     year: '2024'
   DNoGdSIAAAAJ:olpn-zPbct0C:
     citations: 3
@@ -242,7 +242,7 @@ papers:
     title: 'Design Automation for Cyber-Physical Production Systems: Lessons Learned from the DeFacto Project'
     year: '2024'
   DNoGdSIAAAAJ:tOudhMTPpwUC:
-    citations: 3
+    citations: 2
     title: Design domains and abstraction levels for effective smart system simulation
     year: '2016'
   DNoGdSIAAAAJ:tzM49s52ZIMC:
