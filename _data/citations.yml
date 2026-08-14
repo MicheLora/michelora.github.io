@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: Efficient exploration of cyber-physical system architectures using contracts and subgraph isomorphism
     year: '2024'
   DNoGdSIAAAAJ:9vf0nzSNQJEC:
-    citations: 9
+    citations: 10
     title: Automatic generation of analog/mixed signal virtual platforms for smart systems
     year: '2020'
   DNoGdSIAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: Languages and Formalisms to Enable EDA Techniques in the Context of Industry 4.0
     year: '2019'
   DNoGdSIAAAAJ:BrmTIyaxlBUC:
-    citations: 32
+    citations: 33
     title: Analog models manipulation for effective integration in smart system virtual platforms
     year: '2017'
   DNoGdSIAAAAJ:D_sINldO8mEC:
@@ -70,7 +70,7 @@ papers:
     title: 'CHASE: Contract-based requirement engineering for cyber-physical system design'
     year: '2018'
   DNoGdSIAAAAJ:JQOojiI6XY0C:
-    citations: 15
+    citations: 17
     title: 'Split-et-impera: A framework for the design of distributed deep learning applications'
     year: '2023'
   DNoGdSIAAAAJ:JoZmwDi-zQgC:
@@ -78,11 +78,11 @@ papers:
     title: An experimental analysis of security vulnerabilities in industrial IoT devices
     year: '2020'
   DNoGdSIAAAAJ:K3LRdlH-MEoC:
-    citations: 14
+    citations: 15
     title: Conservative behavioural modelling in SystemC-AMS
     year: '2015'
   DNoGdSIAAAAJ:LPZeul_q3PIC:
-    citations: 0
+    citations: 1
     title: SystemC-AMS Simulation of Conservative Behavioral Descriptions
     year: '2016'
   DNoGdSIAAAAJ:LjlpjdlvIbIC:
@@ -114,7 +114,7 @@ papers:
     title: 'Homogeneous simulation: The effective integration solution for smart systems'
     year: '2014'
   DNoGdSIAAAAJ:SdhP9T11ey4C:
-    citations: 6
+    citations: 7
     title: Production recipe validation through formalization and digital twin generation
     year: '2020'
   DNoGdSIAAAAJ:Tiz5es2fbqcC:
@@ -142,7 +142,7 @@ papers:
     title: 'RRPDG: A graph model to enable AI-based production reconfiguration and optimization'
     year: '2024'
   DNoGdSIAAAAJ:WA5NYHcadZ8C:
-    citations: 26
+    citations: 27
     title: Translation, abstraction and integration for effective smart system design
     year: '2019'
   DNoGdSIAAAAJ:WqliGbK-hY8C:
