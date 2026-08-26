@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: An AI-enabled framework for smart semiconductor manufacturing
     year: '2024'
   DNoGdSIAAAAJ:J-pR_7NvFogC:
-    citations: 52
+    citations: 53
     title: 'CHASE: Contract-based requirement engineering for cyber-physical system design'
     year: '2018'
   DNoGdSIAAAAJ:JQOojiI6XY0C:
@@ -74,7 +74,7 @@ papers:
     title: 'Split-et-impera: A framework for the design of distributed deep learning applications'
     year: '2023'
   DNoGdSIAAAAJ:JoZmwDi-zQgC:
-    citations: 145
+    citations: 146
     title: An experimental analysis of security vulnerabilities in industrial IoT devices
     year: '2020'
   DNoGdSIAAAAJ:K3LRdlH-MEoC:
@@ -90,7 +90,7 @@ papers:
     title: "VLSID & ES 2018\u2013List of Reviewers"
     year: Unknown Year
   DNoGdSIAAAAJ:Mojj43d5GZwC:
-    citations: 12
+    citations: 11
     title: Compositional design of multi-robot systems control software on ROS
     year: '2019'
   DNoGdSIAAAAJ:N5tVd3kTz84C:
