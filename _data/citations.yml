@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-28'
 papers:
   DNoGdSIAAAAJ:-_dYPAW6P2MC:
     citations: 1
@@ -90,7 +90,7 @@ papers:
     title: "VLSID & ES 2018\u2013List of Reviewers"
     year: Unknown Year
   DNoGdSIAAAAJ:Mojj43d5GZwC:
-    citations: 11
+    citations: 12
     title: Compositional design of multi-robot systems control software on ROS
     year: '2019'
   DNoGdSIAAAAJ:N5tVd3kTz84C:
